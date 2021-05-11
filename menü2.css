@@ -1,0 +1,77 @@
+
+#ul1
+{
+    color: white;
+}
+#menu ul li a:hover
+{
+    color: green;
+    transition: 2s;
+}
+#a1
+{
+    color: white;
+}
+#ad
+{
+    color: white;
+}
+#ortakısım2
+{
+    width: all;
+    height: 600px;
+    background-image: url(1.1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+#ortayazı a
+{
+    text-align: center;
+    color:purple !important;
+    font-size: 20px;  
+    text-decoration: none;
+    box-sizing: border-box;
+    border: 1px solid gray;
+    background-color: rgba(225,225, 225, 0.3);
+    transition: 0.2s;
+}
+#ortayazı a:hover
+{
+    color: blanchedalmond !important;
+    background-color: burlywood !important;
+    padding: 10px;
+}
+#drmenu
+{
+   color: white;
+}
+#secmek a
+{
+    color:black;
+}
+#secmek a:hover
+{
+    background-color: green;
+}
+#card1bas
+{
+    float: left;
+}
+#card1orta
+{
+    float: left;
+}
+#resimyazı
+{
+    text-align: center;
+    color: white;
+    padding-top: 2px;
+}
+#etkinlikyazı
+{
+    text-align: center;
+    color: white;
+    padding-top: 2px;
+}
